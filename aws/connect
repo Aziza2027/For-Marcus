@@ -1,0 +1,1 @@
+ssh -i for_linux.pem ec2-user@13.49.243.93
