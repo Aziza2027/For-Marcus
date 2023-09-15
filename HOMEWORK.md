@@ -60,3 +60,10 @@ the program should output: "No friend has candies left."
 This way, the exercise becomes more engaging by using a scenario that 
 teenagers can relate to, making it more interesting and relatable.'
 
+
+## 5
+
+ Days of week are numbered as: 0 — Sunday, 1 — Monday, 2 — Tuesday, …, 
+ 6 — Saturday. An integer K in the range 1 to 365 is given. Find the 
+ number of day of week for K-th day of year provided that in this 
+ year January 1 was Monday.
